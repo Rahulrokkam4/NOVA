@@ -1,0 +1,10 @@
+faster-whisper==1.2.1
+sounddevice==0.5.3
+webrtcvad==2.010
+torchcodec==0.8.1
+silero-vad==6.2.0
+onnxruntime-gpu==1.23.2
+openai
+elevenlabs
+dotenv
+pyaudio
